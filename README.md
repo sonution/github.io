@@ -1,4 +1,4 @@
-# github.io
+# sonution.github.io
 
 the sonution project on github pages is a comprehensive portal to every free and open source audio-related technology in existence.
 
